@@ -1,6 +1,6 @@
 # Python to SQL Workshop
 
-A practical, hands-on introduction to SQL for Python users, using SQLite and Jupyter notebooks.
+An LLM generated practical, hands-on introduction to SQL for Python users, using SQLite and Jupyter notebooks.
 
 ## Overview
 
